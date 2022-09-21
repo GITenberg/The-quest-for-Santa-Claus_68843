@@ -1,0 +1,30 @@
+_repo: The-quest-for-Santa-Claus_68843
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Atkinson, Frank
+    gutenberg_agent_id: '54973'
+    url: http://www.gutenberg.org/2009/agents/54973
+description: ''
+gutenberg_issued: '2022-08-26'
+identifiers:
+  gutenberg: '68843'
+  lccn: unk82036597
+language: en
+pgterms:marc904: https://archive.org/details/questforsantacla00atki
+pgterms:marc905: 20211212203437atkinson
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :Arthur H. Strouse Publishing Co.,1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Drama'
+- !lcsh 'Christmas plays'
+- !lcc 'PN'
+- GITenberg
+title: The quest for Santa Claus
+url: http://www.gutenberg.org/ebooks/68843
