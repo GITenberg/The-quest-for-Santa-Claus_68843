@@ -1,11 +1,16 @@
 _repo: The-quest-for-Santa-Claus_68843
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68843-h/images/cover.jpg
 creator:
   author:
     agent_name: Atkinson, Frank
     gutenberg_agent_id: '54973'
     url: http://www.gutenberg.org/2009/agents/54973
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68843#The-quest-for-Santa-Claus
 gutenberg_issued: '2022-08-26'
 identifiers:
   gutenberg: '68843'
